@@ -22,7 +22,7 @@ Install and setup [Thunderstore Mod Manager](https://www.overwolf.com/app/thunde
 
 
 
-![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/REPO-Modpack/experimental/.github/assets/img/configuration.png)
+![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/REPO-Modpack/master/.github/assets/img/configuration.png)
 
 The modpack includes our recommended configurations for the mods. You can customize these settings using the `Config editor` tab in [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) or using the `Edit mod config` tab in [GaleModManager](https://github.com/Kesomannen/gale/releases/latest), or by utilizing [REPOConfig](https://new.thunderstore.io/c/repo/p/nickklmao/REPOConfig/) directly in the game.
 
