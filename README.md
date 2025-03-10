@@ -3,6 +3,7 @@
 **This modpack is a bit restricted at the moment since there aren't a ton of mods out for R.E.P.O. just yet. We're really looking forward to some fresh and exciting mods coming out, so be aware that this modpack could receive a bunch of updates. Mods we do have add a few features, like:**
 
 - Adjustable FOV settings
+- Enemies can be seen on the map
 - Enhanced character color customization options
 - Manual extraction button
 - Microphone mute button using <kbd>M</kbd> by default
@@ -13,18 +14,17 @@
 
 ![installation.png](https://raw.githubusercontent.com/FREAKS-Network/REPO-Modpack/master/.github/assets/img/installation.png)
 
-Install and setup [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) or [GaleModManager](https://github.com/Kesomannen/gale/releases/latest), then click on the `Install with Mod Manager` button right above.
-> Note that [GaleModManager](https://github.com/Kesomannen/gale/releases/latest) does not support the `Install with Mod Manager` button, so, head over to the `Manage Profile` tab and then search for our modpack and install it.
+Install and setup [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager), [r2modman](https://new.thunderstore.io/c/repo/p/ebkr/r2modman/) or [GaleModManager](https://github.com/Kesomannen/gale/releases/latest), then click on the `Install with Mod Manager` button right above.
 
 ##### Remember to click the `Update all` button in the yellow banner within the `Installed` tab of your mod manager after installing the modpack. Do this each time you want to play Lethal Company with your friends using this modpack (they need to do it too)!
 
-> ###### Please note that whenever the modpack is updated, we recommend that you and your friends create a new profile using [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) or [GaleModManager](https://github.com/Kesomannen/gale/releases/latest). Reinstall the modpack from this webpage or through the mod browser in your mod manager to prevent conflicts between older and newer modpack updates.
+> ###### Please note that whenever the modpack is updated, we recommend that you and your friends create a new profile using [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager), [r2modman](https://new.thunderstore.io/c/repo/p/ebkr/r2modman/) or [GaleModManager](https://github.com/Kesomannen/gale/releases/latest). Reinstall the modpack from this webpage or through the mod browser in your mod manager to prevent conflicts between older and newer modpack updates.
 
 
 
 ![configuration.png](https://raw.githubusercontent.com/FREAKS-Network/REPO-Modpack/master/.github/assets/img/configuration.png)
 
-The modpack includes our recommended configurations for the mods. You can customize these settings using the `Config editor` tab in [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager) or using the `Edit mod config` tab in [GaleModManager](https://github.com/Kesomannen/gale/releases/latest), or by utilizing [REPOConfig](https://new.thunderstore.io/c/repo/p/nickklmao/REPOConfig/) directly in the game.
+The modpack includes our recommended configurations for the mods. You can customize these settings using the `Config editor` tab in [Thunderstore Mod Manager](https://www.overwolf.com/app/thunderstore-thunderstore_mod_manager)/[r2modman](https://new.thunderstore.io/c/repo/p/ebkr/r2modman/) or using the `Edit mod config` tab in [GaleModManager](https://github.com/Kesomannen/gale/releases/latest), or by utilizing [REPOConfig](https://new.thunderstore.io/c/repo/p/nickklmao/REPOConfig/) directly in the game.
 
 **Disclaimer:** Server-sided mods must be enabled for all players joining a lobby hosted by someone using these mods. Disabling them can lead to de-sync issues, bugs, or prevent you from joining the lobby. Also, some mods rely on host-specific settings, so avoid modifying them unless you are certain of the changes.
 
