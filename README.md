@@ -4,11 +4,12 @@
 
 - Adjustable FOV settings
 - Enemies can be seen on the map
+- Players can join mid-game (after quitting the shop)
+- Proximity item scanner using <kbd>F</kbd>
 - Enhanced character color customization options
 - Manual extraction button
 - Microphone mute button using <kbd>M</kbd> by default
 - Toggleable freecam feature available in spectator mode using <kbd>Z</kbd>
-- Uncapped characters limit for in-game chat
 
 
 
