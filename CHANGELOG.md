@@ -1,3 +1,18 @@
+# 1.2.0
+
+- **Added mods:**
+    - [BetterMap](https://new.thunderstore.io/c/repo/p/clay/BetterMap/)
+    - [REPO_HD](https://new.thunderstore.io/c/repo/p/BlueAmulet/REPO_HD/)
+    - [VoiceThreshold](https://new.thunderstore.io/c/repo/p/MrDj200/VoiceThreshold/)
+- **Removed mods:**
+    - [Enemy_Location](https://new.thunderstore.io/c/repo/p/WZK/Enemy_Location/)
+- **Configuration:**
+    - [BetterItemScanner](https://new.thunderstore.io/c/repo/p/reepchik/BetterItemScanner/)
+        - Set `DisableAnimations` bool from `true` to `false`
+- **Other:**
+    - Updated dependencies versions to latests
+    - Updated `README.md`
+
 # 1.1.0
 
 - **Added mods:**

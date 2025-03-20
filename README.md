@@ -3,7 +3,7 @@
 **This modpack is a bit restricted at the moment since there aren't a ton of mods out for R.E.P.O. just yet. We're really looking forward to some fresh and exciting mods coming out, so be aware that this modpack could receive a bunch of updates. Mods we do have add a few features, like:**
 
 - Adjustable FOV settings
-- Enemies can be seen on the map
+- Enemies and players can be seen on the map
 - Players can join mid-game (after quitting the shop)
 - Proximity item scanner using <kbd>F</kbd>
 - Enhanced character color customization options
